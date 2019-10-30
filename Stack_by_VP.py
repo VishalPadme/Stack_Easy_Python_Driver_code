@@ -1,4 +1,4 @@
-#queue is built in module in python 3.7 therefore Available in College pc for sure.
+
 
 import queue as a
 def dis(self):                                   #display fn (Not available in Module)
